@@ -1,0 +1,10 @@
+C:\работа\Практика КПиЯП\лр7\лр7\bin\Debug\лр7.exe.config
+C:\работа\Практика КПиЯП\лр7\лр7\bin\Debug\лр7.exe
+C:\работа\Практика КПиЯП\лр7\лр7\bin\Debug\лр7.pdb
+C:\работа\Практика КПиЯП\лр7\лр7\obj\Debug\лр7.csproj.AssemblyReference.cache
+C:\работа\Практика КПиЯП\лр7\лр7\obj\Debug\лр7.Form1.resources
+C:\работа\Практика КПиЯП\лр7\лр7\obj\Debug\лр7.Properties.Resources.resources
+C:\работа\Практика КПиЯП\лр7\лр7\obj\Debug\лр7.csproj.GenerateResource.cache
+C:\работа\Практика КПиЯП\лр7\лр7\obj\Debug\лр7.csproj.CoreCompileInputs.cache
+C:\работа\Практика КПиЯП\лр7\лр7\obj\Debug\лр7.exe
+C:\работа\Практика КПиЯП\лр7\лр7\obj\Debug\лр7.pdb
